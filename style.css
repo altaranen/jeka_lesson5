@@ -1,0 +1,73 @@
+@import url(fonts.css);
+
+
+
+
+.reviews {
+    min-height: 900px;
+    background-color: #fff;
+
+}
+.title__reviews {
+    font-family: 'Circular Std';
+    font-weight: 500;
+    font-size: 65px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #313131;
+    padding-top: 10px;
+}
+.sub_title {
+    font-family: 'Circular Std';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    margin: 0px 32%;
+    color: #5F5F5F;
+}
+.description__reviews {
+    padding-left: 207px;
+    
+}
+.desc {
+    font-family: 'Circular Std';
+    font-weight: 900;
+    font-size: 34px;
+    line-height: 130%;
+    margin: 217px 0px 20px;
+    color: #313131;
+    opacity: 0.88;
+}
+.text {
+    font-family: 'Circular Std';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #5F5F5F;
+    margin-right: 70%;
+}
+.stars__reviews {
+    margin: 60px 0 40px;
+}
+.signature__reviews {
+}
+.name {
+    font-family: 'Circular Std';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 130%;
+    color: #313131;
+    opacity: 0.88;
+}
+.position {
+    font-family: 'Circular Std';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    margin: 5px auto 20px;
+    color: #B8B8B8;
+}
+.mainPhoto__reviews {
+    padding-left: 207px;
+}
